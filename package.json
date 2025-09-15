@@ -5,7 +5,7 @@
   "main": "bookmarklet.js",
   "scripts": {
     "dev": "npx webpack build --watch",
-    "build": "npx webpack build --output public",
+    "build": "npx webpack build",
     "build:prod": "npx webpack build --mode=production"
   },
   "repository": {
